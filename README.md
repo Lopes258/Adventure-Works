@@ -9,3 +9,5 @@ Se trata de um projeto de uma empresa de nivel mundial com 4 dashboard.
 - O terceiro dashboard é um relacionado ao detalhe do produto e com o Water Bottle como exemplo do detalhe.
 
 - O ultimo é relacionado ao clientes da loja para ter uma noção qual o tipo de clientes que a empresa possui e como geralmente eles consomem.
+
+Para verificar sobre o projeto é preciso baixar.
